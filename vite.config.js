@@ -2,6 +2,6 @@ import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
-  base: '/deploying-jontastic-slots2/',
+  base: '/jontastic-slots2/',
   plugins: [vue()],
 })
