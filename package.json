@@ -24,6 +24,8 @@
   },
   "name": "slot-vue-mashine",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "dev": "vite --host",
     "preview": "vite preview"
