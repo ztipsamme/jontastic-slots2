@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@ant-design/icons-vue": "^6.1.0",
+    "@vueuse/core": "^9.13.0",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.3",
+    "bootstrap-vue": "^2.23.1",
+    "gsap": "npm:@gsap/member@^3.11.4",
+    "pinia": "^2.0.30",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "eslint": "^8.35.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-vue": "^9.9.0",
+    "sass": "^1.58.1",
+    "vite": "^4.0.4"
+  },
+  "name": "slot-vue-mashine",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite --host",
+    "preview": "vite preview"
+  },
+  "version": "0.0.0"
+}
